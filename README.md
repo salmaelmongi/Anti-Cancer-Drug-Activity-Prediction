@@ -15,6 +15,7 @@ The dataset consists of chemical compounds represented as graphs. Each compound'
 
 *GNN Architectures*
 
+
 This project explores various GNN architectures for the anticancer activity prediction task:
 
 GGNN (Gated Graph Neural Network)
@@ -36,11 +37,15 @@ Each GNN architecture has its unique approach to message passing and graph struc
 
 *Training Process*
 
+
 The models are trained using TensorFlow and Keras.
+
 
 Training is performed on a subset of the data using various GNN architectures.
 
+
 Hyperparameters are tuned via grid search and cross-validation techniques.
+
 
 Evaluation Metrics
 
