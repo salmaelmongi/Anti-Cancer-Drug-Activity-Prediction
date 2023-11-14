@@ -17,11 +17,17 @@ GNN Architectures
 This project explores various GNN architectures for the anticancer activity prediction task:
 
 GGNN (Gated Graph Neural Network)
+
 RGCN (Relational Graph Convolutional Network)
+
 RGAT (Relational Graph Attention Network)
+
 RGIN (Relational Graph Isomorphism Network)
+
 GNN_Edge_MLP (Edge-wise Multi-Layer Perceptron)
+
 GNN_FiLM (Feature-wise Linear Modulation)
+
 Each GNN architecture has its unique approach to message passing and graph structure analysis. Hyperparameter tuning and evaluation metrics differ across these architectures.
 
 ## Model Training:
